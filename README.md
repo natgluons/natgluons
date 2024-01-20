@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, call me Nat 👋
+
+I'm passionate about data, technology, and development
+
+🔭 Currently working on fraud detection system, exploring machine learning, and diving into the world of cloud automation
+🌱 I love to learn about Data Science, Back End, and many more
+👯 I'm looking to collaborate on some projects
+
+Let's connect via LinkedIn! 👋🌐 
 
 <!--
 **kristynatasha/kristynatasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
