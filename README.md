@@ -1,4 +1,4 @@
-### Hey, call me Nat 👋
+### Hey, call me Nat 👋 
 
 I'm passionate about data, technology, and development
 
