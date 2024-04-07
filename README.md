@@ -6,7 +6,7 @@ I'm passionate about data, technology, and development
 - 🌱 I love learning about Data Science, Web Development, and many more
 - 👯 I'm looking to collaborate on some projects
 
-Let's connect via LinkedIn! 👋🌐 
+Let's connect via [LinkedIn](https://www.linkedin.com/in/kristynatasha/)! 👋🌐 
 
 <!--
 **kristynatasha/kristynatasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
