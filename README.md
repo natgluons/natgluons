@@ -3,7 +3,7 @@
 I'm passionate about data, technology, and development
 
 - 🔭 Currently exploring machine learning and diving into the world of cloud automation
-- 🌱 I love learning about Data Science, Web Development, Cloud Engineering, and many more
+- 🌱 I love learning about Data Science, Geospatial Analysis, Web Development, and many more
 - 👯 I'm looking to collaborate on some projects
 
 Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
