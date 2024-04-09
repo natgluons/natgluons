@@ -2,11 +2,13 @@
 
 I'm passionate about data, technology, and development
 
-- 🔭 Currently working on fraud detection system, exploring machine learning, and diving into the world of cloud automation
-- 🌱 I love learning about Data Science, Web Development, and many more
+- 🔭 Currently exploring machine learning and diving into the world of cloud automation
+- 🌱 I love learning about Data Science, Web Development, Cloud Engineering, and many more
 - 👯 I'm looking to collaborate on some projects
 
-Let's connect via [LinkedIn](https://www.linkedin.com/in/kristynatasha/)! 👋🌐 
+Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
+
+Interested in a discussion? Let's connect via [LinkedIn](https://www.linkedin.com/in/kristynatasha/)! 👋🌐 
 
 <!--
 **kristynatasha/kristynatasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
