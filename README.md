@@ -1,6 +1,6 @@
 ### Hey, call me Nat 👋 
 
-I'm passionate about data, technology, and development
+I'm passionate about data and technology development
 
 - 🔭 Currently exploring machine learning (GNNs) and diving into the world of MLOps and Cloud Automation
 - 🌱 I love learning about Data Science, Software Development, Geospatial Analysis, and many more
