@@ -2,7 +2,7 @@
 
 I'm passionate about AI, Data, and Technology Development.
 
-- 🔭 Currently exploring Graph Neural Networks (GNNs) and delving into NLP, Computer Vision (CV), MLOps, and Cloud Automation
+- 🔭 Currently exploring Graph Neural Networks (GNNs), NLP, Computer Vision (CV), and delving into MLOps and Cloud Automation
 - 🌱 I love learning about AI/ML, Data Science, Software Development, Geospatial Analysis, and more
 - 👯 I'm looking to collaborate on some projects
 
