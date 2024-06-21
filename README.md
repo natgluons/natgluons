@@ -1,10 +1,10 @@
 ### Hey, call me Nat 👋 
 
-I'm passionate about data and technology development
+I'm passionate about AI, Data, and Technology Development.
 
-- 🔭 Currently exploring machine learning (GNNs) and diving into the world of MLOps and Cloud Automation
-- 🌱 I love learning about Data Science, Software Development, Geospatial Analysis, and many more
-- 👯 I'm looking to collaborate on some projects
+- 🔭 Currently exploring Graph Neural Networks (GNNs) and delving into NLP, Computer Vision (CV), MLOps, and Cloud Automation
+- 🌱 I love learning about AI/ML, Data Science, Software Development, Geospatial Analysis, and more
+- 👯 I'm looking to collaborate on exciting projects involving AI and ML
 
 Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
