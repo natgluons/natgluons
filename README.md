@@ -10,6 +10,15 @@ Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://
 
 Interested in a discussion? Let's connect via [LinkedIn](https://www.linkedin.com/in/kristynatasha/)! 👋🌐 
 
+## Sneak peek of my projects
+
+![image](https://github.com/user-attachments/assets/80ec97db-c08d-4e51-8b10-0f4278008e0b)
+![cv_webcam_arduinoide](https://github.com/user-attachments/assets/50fb3d55-1212-4892-a145-4873701d5d9e)
+![image](https://github.com/user-attachments/assets/8e4c2284-d559-4df0-b0ae-aa006c8ceca8)
+![image](https://github.com/user-attachments/assets/5986079a-7b54-425d-8b98-a435e2dc9bf6)
+![image](https://github.com/user-attachments/assets/6c6f0c9a-fc6d-4763-800b-dd8b3383c58e)
+![image](https://github.com/user-attachments/assets/6dccc3e5-3137-4715-b287-c6d6b34fc079)
+
 <!--
 **kristynatasha/kristynatasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
