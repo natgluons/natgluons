@@ -12,12 +12,14 @@ Interested in a discussion? Let's connect via [LinkedIn](https://www.linkedin.co
 
 ## Sneak peek of my projects
 
-![image](https://github.com/user-attachments/assets/80ec97db-c08d-4e51-8b10-0f4278008e0b)
-![cv_webcam_arduinoide](https://github.com/user-attachments/assets/50fb3d55-1212-4892-a145-4873701d5d9e)
-![image](https://github.com/user-attachments/assets/8e4c2284-d559-4df0-b0ae-aa006c8ceca8)
-![image](https://github.com/user-attachments/assets/5986079a-7b54-425d-8b98-a435e2dc9bf6)
-![image](https://github.com/user-attachments/assets/6c6f0c9a-fc6d-4763-800b-dd8b3383c58e)
-![image](https://github.com/user-attachments/assets/6dccc3e5-3137-4715-b287-c6d6b34fc079)
+<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px; padding: 10px; background-color: #f5f5f5; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/80ec97db-c08d-4e51-8b10-0f4278008e0b" alt="Project 1" style="height: 150px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/50fb3d55-1212-4892-a145-4873701d5d9e" alt="Project 2" style="height: 150px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/8e4c2284-d559-4df0-b0ae-aa006c8ceca8" alt="Project 3" style="height: 150px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/5986079a-7b54-425d-8b98-a435e2dc9bf6" alt="Project 4" style="height: 150px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/6c6f0c9a-fc6d-4763-800b-dd8b3383c58e" alt="Project 5" style="height: 150px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/6dccc3e5-3137-4715-b287-c6d6b34fc079" alt="Project 6" style="height: 150px; border-radius: 8px;">
+</div>
 
 <!--
 **kristynatasha/kristynatasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
