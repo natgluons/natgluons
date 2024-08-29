@@ -9,6 +9,7 @@ I'm passionate about AI, Data, and Technology Development.
 Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
 💼 Open to freelance projects!
+
 Interested in a discussion? Let's connect via [LinkedIn](https://www.linkedin.com/in/kristynatasha/) or [WhatsApp](https://wa.me/6287886583513)! 👋🌐 
 
 ## Sneak peek of my projects
