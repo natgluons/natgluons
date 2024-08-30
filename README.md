@@ -4,13 +4,13 @@ I'm passionate about AI, Data, and Technology Development.
 
 - 🔭 Currently exploring Graph Neural Networks (GNNs), NLP, Computer Vision (CV), and delving into MLOps and Cloud Automation
 - 🌱 I love learning about AI/ML, Data Science, Software Development, Geospatial Analysis, and many more
-- 👯 I'm looking to collaborate on some projects
+- 💼 Open for collaborations/freelance projects!
 
 Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
-💼 Open to freelance projects!
-
 Interested in a discussion? Let's connect via [LinkedIn](https://www.linkedin.com/in/kristynatasha/) or [WhatsApp](https://wa.me/6287886583513)! 👋🌐 
+
+<a href="mailto:kristynatasha011@gmail.com">kristynatasha011@gmail.com</a> | IG <a href="https://www.instagram.com/natgluons/">@natgluons</a>
 
 ## Sneak peek of my projects
 
