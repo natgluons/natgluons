@@ -2,9 +2,9 @@
 
 I'm passionate about AI, Data Science, and Technology Development.
 
-- 🔭 Currently focused on AI/ML and Data Science, specializing in Chatbot Development (RAG, LangChain), LLMs, NLP, and Computer Vision (CV), while also exploring MLOps and Cloud Automation
-- 🌱 I love learning about AI/ML, Data Science, Web Development, Geospatial Analysis, and many more
-- 💼 Open to collaborations and freelance projects!
+💻 Currently focused on AI/ML, working on chatbot development (RAG, LangChain), LLMs, NLP, fraud detection systems (GNNs, transaction modeling), and cloud deployment ⚙️ (MLOps, HPC, optimization)
+🌍 Continuously exploring and sharpening skills in data engineering, web development, and scalable ML system design. Also interested in geospatial analysis and applying AI for sustainability & infrastructure challenges
+🤝 Open to collaborations and freelance projects—especially if it’s complex, impactful, or just plain cool
 
 Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
@@ -21,18 +21,3 @@ Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com
   <img src="https://github.com/user-attachments/assets/6c6f0c9a-fc6d-4763-800b-dd8b3383c58e" alt="Project 5" style="height: 150px; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/6dccc3e5-3137-4715-b287-c6d6b34fc079" alt="Project 6" style="height: 150px; border-radius: 8px;">
 </div>
-
-<!--
-**kristynatasha/kristynatasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
