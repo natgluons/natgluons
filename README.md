@@ -2,9 +2,9 @@
 
 I'm passionate about AI, Data Science, and Technology Development.
 
-💻 Currently focused on AI/ML, working on chatbot development (RAG, LangChain), LLMs, NLP, fraud detection systems (GNNs, transaction modeling), and cloud deployment ⚙️ (MLOps, HPC, optimization)
-🌍 Continuously exploring and sharpening skills in data engineering, web development, and scalable ML system design. Also interested in geospatial analysis and applying AI for sustainability & infrastructure challenges
-🤝 Open to collaborations and freelance projects—especially if it’s complex, impactful, or just plain cool
+💻 Currently focused on AI/ML, working on chatbot development (RAG, LangChain), LLMs, NLP, fraud detection systems (GNNs, transaction modeling), and cloud deployment (MLOps, HPC, optimization)
+<br> 🌍 Continuously exploring and sharpening skills in data engineering, web development, and scalable ML system design. Also interested in geospatial analysis and applying AI for sustainability & infrastructure challenges
+<br> 🤝 Open to collaborations and freelance projects—especially if it’s complex, impactful, or just plain cool
 
 Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
