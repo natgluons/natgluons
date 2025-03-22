@@ -4,9 +4,9 @@ I'm passionate about AI, Data Science, and Technology Development.
 
 💻 Currently focused on AI/ML, working on chatbot development (RAG, LangChain), LLMs, NLP, fraud detection systems (GNNs, transaction modeling), and cloud deployment (MLOps, HPC, optimization)
 <br> 🌍 Continuously exploring and sharpening skills in data engineering, web development, and scalable ML system design. Also interested in geospatial analysis and applying AI for sustainability & infrastructure challenges
-<br> 🤝 Open to collaborations and freelance projects—especially if it’s complex, impactful, or just plain cool
+<br> 💼 Open to collaborations and freelance projects—especially if it’s complex, impactful, or just plain cool
 
-Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
+Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)  ➜ 💡 Want something similar? You can buy a premade or custom web portfolio from me! Check the available templates & pricing: [Web Portfolio Template](https://github.com/natgluons/web-portfolio-templates)
 
 Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com/in/kristynatasha/) or reach out to me via [WhatsApp](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email](mailto:kristynatasha011@gmail.com)! 👋🌐 
 
