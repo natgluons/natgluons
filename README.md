@@ -15,7 +15,7 @@ Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com
 <div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px; padding: 10px; background-color: #f5f5f5; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/86758563-55d7-4491-9201-f5524e6461e8" alt="Project 1" style="height: 150px; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/19d218ae-5958-4106-a4a9-59798cbdee10" alt="Project 2" style="height: 150px; border-radius: 8px;">
-  <img src="https://github.com/user-attachments/assets/16d50a20-e38c-44b8-865f-ef201ca1c74c" alt="Project 3" style="height: 150px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/95b0a302-70a8-44b4-ba04-8c7ee74969f7" alt="Project 3" style="height: 150px; border-radius: 8px;">
   <br>
   <img src="https://github.com/user-attachments/assets/80ec97db-c08d-4e51-8b10-0f4278008e0b" alt="Project 4" style="height: 150px; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/50fb3d55-1212-4892-a145-4873701d5d9e" alt="Project 5" style="height: 150px; border-radius: 8px;">
