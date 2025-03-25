@@ -25,3 +25,7 @@ Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com
   <img src="https://github.com/user-attachments/assets/6c6f0c9a-fc6d-4763-800b-dd8b3383c58e" alt="Project 8" style="height: 150px; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/6dccc3e5-3137-4715-b287-c6d6b34fc079" alt="Project 9" style="height: 150px; border-radius: 8px;">
 </div>
+
+## Profile Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=natgluons&theme=codeSTACKr&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=natgluons&theme=codeSTACKr&hide_border=true)
