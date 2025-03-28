@@ -29,7 +29,7 @@ Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com
   </tr>
   <tr>
     <td align="center" valign="bottom">
-      <img src="https://github.com/user-attachments/assets/80ec97db-c08d-4e51-8b10-0f4278008e0b" height="150"><br>
+      <img src="https://github.com/user-attachments/assets/bfe0bd46-fe7d-42dd-a868-d8f5831fa142" height="150"><br>
       <a href="https://github.com/natgluons/RAG-Chatbot"><b>RAG & LangChain</b></a>
     </td>
     <td align="center" valign="bottom">
