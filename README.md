@@ -12,12 +12,52 @@ Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com
 
 ## Sneak peek of my projects
 
-| | | |
-|---|---|---|
-| ![](https://github.com/user-attachments/assets/b8a1596c-808a-432b-b504-94a54d9d3329) <br>**Project 1** | ![](https://github.com/user-attachments/assets/0cc9e499-1782-43ef-b77a-800f2edadd4b) <br>**Project 2** | ![](https://github.com/user-attachments/assets/ff5a8e0a-0fcc-450d-957c-40694ce6616e) <br>**Project 3** |
-| ![](https://github.com/user-attachments/assets/80ec97db-c08d-4e51-8b10-0f4278008e0b) <br>**Project 4** | ![](https://github.com/user-attachments/assets/19d218ae-5958-4106-a4a9-59798cbdee10) <br>**Project 5** | ![](https://github.com/user-attachments/assets/c4205d15-859c-47a3-b0d8-5ad0319b3c07) <br>**Project 6** |
-| ![](https://github.com/user-attachments/assets/86758563-55d7-4491-9201-f5524e6461e8) <br>**Project 7** | ![](https://github.com/user-attachments/assets/50fb3d55-1212-4892-a145-4873701d5d9e) <br>**Project 8** | ![](https://github.com/user-attachments/assets/4bc216a0-c0b3-447e-8b01-1ff87f282e9f) <br>**Project 9** |
-| ![](https://github.com/user-attachments/assets/57d7be58-2b44-40ac-b2b3-b99751611ffd) <br>**Project 10** | ![](https://github.com/user-attachments/assets/6c6f0c9a-fc6d-4763-800b-dd8b3383c58e) <br>**Project 11** | ![](https://github.com/user-attachments/assets/b8767d12-000f-4846-9650-42a65c1938cf) <br>**Project 12** |
+<table>
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/b8a1596c-808a-432b-b504-94a54d9d3329" height="150"><br><b>Project 1</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/0cc9e499-1782-43ef-b77a-800f2edadd4b" height="150"><br><b>Project 2</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/ff5a8e0a-0fcc-450d-957c-40694ce6616e" height="150"><br><b>Project 3</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/80ec97db-c08d-4e51-8b10-0f4278008e0b" height="150"><br><b>Project 4</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/19d218ae-5958-4106-a4a9-59798cbdee10" height="150"><br><b>Project 5</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/c4205d15-859c-47a3-b0d8-5ad0319b3c07" height="150"><br><b>Project 6</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/86758563-55d7-4491-9201-f5524e6461e8" height="150"><br><b>Project 7</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/50fb3d55-1212-4892-a145-4873701d5d9e" height="150"><br><b>Project 8</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/4bc216a0-c0b3-447e-8b01-1ff87f282e9f" height="150"><br><b>Project 9</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/57d7be58-2b44-40ac-b2b3-b99751611ffd" height="150"><br><b>Project 10</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/6c6f0c9a-fc6d-4763-800b-dd8b3383c58e" height="150"><br><b>Project 11</b>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/b8767d12-000f-4846-9650-42a65c1938cf" height="150"><br><b>Project 12</b>
+    </td>
+  </tr>
+</table>
 
 <!-- 
 <div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px; padding: 10px; background-color: #f5f5f5; border-radius: 8px;">
