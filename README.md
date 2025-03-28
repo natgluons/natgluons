@@ -16,73 +16,60 @@ Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com
   <tr>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/b8a1596c-808a-432b-b504-94a54d9d3329" height="150"><br>
-      <b>HiringHelp Chatbot</b><br>
-      <a href="https://github.com/natgluons/HiringHelp-Chatbot" target="_blank">https://github.com/natgluons/HiringHelp-Chatbot</a>
-    </td>
-    <td align="center" valign="bottom">
-      <img src="https://github.com/user-attachments/assets/0cc9e499-1782-43ef-b77a-800f2edadd4b" height="150"><br>
-      <b>Gradio - HiringHelp</b><br>
-      <a href="https://github.com/natgluons/HiringHelp-Chatbot" target="_blank">https://github.com/natgluons/HiringHelp-Chatbot</a>
+      <a href="https://github.com/natgluons/HiringHelp-Chatbot"><b>HiringHelp Chatbot</b></a>
     </td>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/ff5a8e0a-0fcc-450d-957c-40694ce6616e" height="150"><br>
-      <b>Docs Preview - HiringHelp</b><br>
-      <a href="https://github.com/natgluons/HiringHelp-Chatbot" target="_blank">https://github.com/natgluons/HiringHelp-Chatbot</a>
+      <a href="https://github.com/natgluons/HiringHelp-Chatbot"><b>Docs Preview - HiringHelp</b></a>
+    </td>
+    <td align="center" valign="bottom">
+      <img src="https://github.com/user-attachments/assets/0cc9e499-1782-43ef-b77a-800f2edadd4b" height="150"><br>
+      <a href="https://github.com/natgluons/HiringHelp-Chatbot"><b>Gradio HuggingFace Spaces</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/80ec97db-c08d-4e51-8b10-0f4278008e0b" height="150"><br>
-      <b>RAG & LangChain</b><br>
-      <a href="https://github.com/natgluons/RAG-Chatbot" target="_blank">https://github.com/natgluons/RAG-Chatbot</a>
+      <a href="https://github.com/natgluons/RAG-Chatbot"><b>RAG & LangChain</b></a>
     </td>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/19d218ae-5958-4106-a4a9-59798cbdee10" height="150"><br>
-      <b>Pickup Line Generator</b><br>
-      <a href="https://github.com/natgluons/AI-PickupLine-Generator" target="_blank">https://github.com/natgluons/AI-PickupLine-Generator</a>
+      <a href="https://github.com/natgluons/AI-PickupLine-Generator"><b>Pickup Line Generator</b></a>
     </td>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/c4205d15-859c-47a3-b0d8-5ad0319b3c07" height="150"><br>
-      <b>Web Portfolio Template</b><br>
-      <a href="https://github.com/natgluons/web-portfolio-templates" target="_blank">https://github.com/natgluons/web-portfolio-templates</a>
+      <a href="https://github.com/natgluons/web-portfolio-templates"><b>Web Portfolio Template</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/86758563-55d7-4491-9201-f5524e6461e8" height="150"><br>
-      <b>AI Tone Generator</b><br>
-      <a href="https://github.com/natgluons/AI-Tone-Generator" target="_blank">https://github.com/natgluons/AI-Tone-Generator</a>
+      <a href="https://github.com/natgluons/AI-Tone-Generator"><b>AI Tone Generator</b></a>
     </td>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/50fb3d55-1212-4892-a145-4873701d5d9e" height="150"><br>
-      <b>Face Recognition Arduino</b><br>
-      <a href="https://github.com/natgluons/ComputerVision-Webcam" target="_blank">https://github.com/natgluons/ComputerVision-Webcam</a>
+      <a href="https://github.com/natgluons/ComputerVision-Webcam"><b>Face Recognition Arduino</b></a>
     </td>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/4bc216a0-c0b3-447e-8b01-1ff87f282e9f" height="150"><br>
-      <b>Fraud Detection Graph</b><br>
-      <a href="https://github.com/natgluons/GNN-FraudDetectionSystem-Visualization" target="_blank">https://github.com/natgluons/GNN-FraudDetectionSystem-Visualization</a>
+      <a href="https://github.com/natgluons/GNN-FraudDetectionSystem-Visualization"><b>Fraud Detection Graph</b></a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/57d7be58-2b44-40ac-b2b3-b99751611ffd" height="150"><br>
-      <b>Marketplace Web Page</b><br>
-      <a href="https://github.com/natgluons/NGK-marketplace" target="_blank">https://github.com/natgluons/NGK-marketplace</a>
+      <a href="https://github.com/natgluons/NGK-marketplace"><b>Marketplace Web Page</b></a>
     </td>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/6c6f0c9a-fc6d-4763-800b-dd8b3383c58e" height="150"><br>
-      <b>NLP Youtube Algorithm</b><br>
-      <a href="https://github.com/natgluons/YouTube-Transcript-NLTK" target="_blank">https://github.com/natgluons/YouTube-Transcript-NLTK</a>
+      <a href="https://github.com/natgluons/YouTube-Transcript-NLTK"><b>NLP Youtube Algorithm</b></a>
     </td>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/b8767d12-000f-4846-9650-42a65c1938cf" height="150"><br>
-      <b>Sales Forecasting</b><br>
-      <a href="https://github.com/natgluons/FMCG-Data-Modeling" target="_blank">https://github.com/natgluons/FMCG-Data-Modeling</a>
+      <a href="https://github.com/natgluons/FMCG-Data-Modeling"><b>Sales Forecasting</b></a>
     </td>
   </tr>
 </table>
-
 
 <!-- 
 <div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px; padding: 10px; background-color: #f5f5f5; border-radius: 8px;">
