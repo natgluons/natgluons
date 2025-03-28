@@ -13,6 +13,10 @@ Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com
 ## Sneak peek of my projects
 
 <div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 10px; padding: 10px; background-color: #f5f5f5; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/b8a1596c-808a-432b-b504-94a54d9d3329" alt="Project 1" style="height: 150px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/0cc9e499-1782-43ef-b77a-800f2edadd4b" alt="Project 2" style="height: 150px; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/ff5a8e0a-0fcc-450d-957c-40694ce6616e" alt="Project 3" style="height: 150px; border-radius: 8px;">
+  <br>
   <img src="https://github.com/user-attachments/assets/86758563-55d7-4491-9201-f5524e6461e8" alt="Project 1" style="height: 150px; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/19d218ae-5958-4106-a4a9-59798cbdee10" alt="Project 2" style="height: 150px; border-radius: 8px;">
   <img src="https://github.com/user-attachments/assets/95b0a302-70a8-44b4-ba04-8c7ee74969f7" alt="Project 3" style="height: 150px; border-radius: 8px;">
