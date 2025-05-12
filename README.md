@@ -4,7 +4,7 @@ I'm passionate about AI, Data Science, and Technology Development.
 
 💻 Currently focused on AI/ML, working on chatbot development (RAG, LangChain), LLMs, NLP, fraud detection systems (GNNs, transaction modeling), and cloud deployment (MLOps & optimization)
 <br> 🛠️ Always exploring new tools and sharpening skills in data engineering, web development, and scalable ML system design. Also diving into geospatial analysis and applying AI for sustainability & infrastructure challenges.
-<br> 🎮 On the side, I enjoy 3D modeling with Fusion360 and tinkering with Godot game engine—experimenting with projects that mix AI, simulation, and gaming.
+<br> 🎮 On the side, I enjoy 3D modeling with Fusion360 and tinkering with Godot game engine, experimenting with projects that mix AI, simulation, and gaming.
 <br> 💼 Open to collaborations and freelance projects (especially if it’s complex, fun to build, or just plain cool!).
 
 Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)  ➜ 💡 Want something similar? You can buy a premade or custom web portfolio from me! Check the available templates & pricing: [Web Portfolio Template](https://github.com/natgluons/web-portfolio-templates)
