@@ -5,11 +5,12 @@ I'm passionate about AI, Data Science, and Technology Development.
 💻 Currently focused on AI/ML, working on chatbot development (RAG, LangChain), LLMs, NLP, fraud detection systems (GNNs, transaction modeling), and cloud deployment (MLOps & optimization)
 <br> 🛠️ Always exploring new tools and sharpening skills in Arduino projects, web development, and scalable ML system design. Also diving into geospatial analysis and applying AI to sustainability and infrastructure challenges.
 <br> 🎮 On the side, I enjoy 3D modeling with Fusion360 and tinkering with Godot game engine, experimenting with projects that mix AI, simulation, and gaming.
-<br> 💼 Open to collaborations and freelance projects (especially if it’s complex, fun to build, or just plain cool!).
+<br> 📖 Currently pursuing an MSc in Applied Computational Science and Engineering at Imperial College London (Sep 2025 – Sep 2026).
+<br>💼 Open to internship opportunities (London, UK) for up to 20 hours/week. My student visa will be valid from late August 2025, so no sponsorship is required. I’m available to work remotely in the mornings and can come to the office in the afternoon or evening, as my classes end by 12 PM daily.
 
 Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)  ➜ 💡 Want something similar? You can buy a premade or custom web portfolio from me! Check the available templates & pricing: [Web Portfolio Template](https://github.com/natgluons/web-portfolio-templates)
 
-Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com/in/kristynatasha/) or reach out to me via [WhatsApp](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email](mailto:kristynatasha011@gmail.com)! 👋🌐 
+Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com/in/kristynatasha/) or reach out to me via [WhatsApp (UK)](https://wa.me/447380981449) / [WhatsApp (Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email](mailto:kristynatasha011@gmail.com)! 👋
 
 ## Sneak peek of my projects
 
