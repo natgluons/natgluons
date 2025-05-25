@@ -10,7 +10,7 @@ I'm passionate about AI, Data Science, and Technology Development.
 
 Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)  ➜ 💡 Want something similar? You can buy a premade or custom web portfolio from me! Check the available templates & pricing: [Web Portfolio Template](https://github.com/natgluons/web-portfolio-templates)
 
-Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com/in/kristynatasha/) or reach out to me via [WhatsApp (UK)](https://wa.me/447380981449) / [WhatsApp (Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email](mailto:kristynatasha011@gmail.com)! 👋
+Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com/in/kristynatasha/) or reach out to me via [WhatsApp (UK)](https://wa.me/447380981449)/[(Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email](mailto:kristynatasha011@gmail.com)! 👋
 
 ## Sneak peek of my projects
 
