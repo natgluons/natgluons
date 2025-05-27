@@ -6,7 +6,7 @@ I'm passionate about AI, Data Science, and Technology Development.
 <br> 🛠️ Always exploring new tools and sharpening skills in Arduino projects, web development, and scalable ML system design. Also diving into geospatial analysis and applying AI to sustainability and infrastructure challenges.
 <br> 🎮 On the side, I enjoy 3D modeling with Fusion360 and tinkering with Godot game engine, experimenting with projects that mix AI, simulation, and gaming.
 <br> 📖 Currently pursuing an MSc in Applied Computational Science and Engineering at Imperial College London (Sep 2025 – Sep 2026).
-<br>💼 Open to internship opportunities (London, UK) for up to 20 hours/week. My student visa will be valid from late August 2025, so no sponsorship is required. I’m available to work remotely in the mornings and can come to the office in the afternoon or evening, as my classes end by 12 PM daily.
+<br> 💼 Open to part-time research or internship opportunities (London, UK) for up to 20 hours/week under a Student Visa (valid from late August 2025, no sponsorship required). Available to work remotely in the mornings and on-site in the afternoons or evenings, as my classes finish by 12 PM daily.
 
 Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
