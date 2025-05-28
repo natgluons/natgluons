@@ -11,7 +11,7 @@ I'm passionate about AI, data science, and tech development.
 
 Check out my web portfolio: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
-Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/) or reach out to me via [WhatsApp (UK)](https://wa.me/447380981449)/[(Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email](mailto:kristynatasha011@gmail.com)! 👋
+Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp (UK)](https://wa.me/447380981449)/[(Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email](mailto:kristynatasha011@gmail.com)! 👋
 
 ## Sneak peek of my projects
 
