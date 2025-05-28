@@ -47,7 +47,7 @@ Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynata
   <tr>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/86758563-55d7-4491-9201-f5524e6461e8" height="150"><br>
-      <a href="https://github.com/natgluons/AI-Tone-Generator"><b>AI Tone Generator</b></a>
+      <a href="https://github.com/natgluons/AI-Tone-Changer"><b>AI Tone Changer</b></a>
     </td>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/50fb3d55-1212-4892-a145-4873701d5d9e" height="150"><br>
