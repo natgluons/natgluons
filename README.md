@@ -1,16 +1,17 @@
 ### Hey, call me Nath 👋 
 
-I'm passionate about AI, Data Science, and Technology Development.
+I'm passionate about AI, data science, and practical tech development.
 
-💻 Currently focused on AI/ML, working on chatbot development (RAG, LangChain), LLMs, NLP, fraud detection systems (GNNs, transaction modeling), and cloud deployment (MLOps & optimization)
-<br> 🛠️ Always exploring new tools and sharpening skills in Arduino projects, web development, and scalable ML system design. Also diving into geospatial analysis and applying AI to sustainability and infrastructure challenges.
-<br> 🎮 On the side, I enjoy 3D modeling with Fusion360 and tinkering with Godot game engine, experimenting with projects that mix AI, simulation, and gaming.
-<br> 📖 Currently pursuing an MSc in Applied Computational Science and Engineering at Imperial College London (Sep 2025 – Sep 2026).
-<br> 💼 Open to part-time research or internship opportunities (London, UK) for up to 20 hours/week under a Student Visa (valid from late August 2025, no sponsorship required). Available to work remotely in the mornings and on-site in the afternoons or evenings, as my classes finish by 12 PM daily.
+* 💻 **Currently building**: chatbot systems (RAG, LangChain, LLMs), NLP tools, and fraud detection systems (using GNNs & transaction modeling). Also handling MLOps, cloud deployments, and system optimization.
+  * 🛠️ **Love to tinker with**: Arduino hardware, scalable ML pipelines, web apps, and geospatial AI for sustainability & infrastructure.
+  * 🎮 **Side quests**: 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
+* 📖 Currently pursuing **MSc @ Imperial College London** in *Applied Computational Science and Engineering* (Sep 2025–Sep 2026).
+* 💼 Looking for: **part-time AI research/engineering or data scientist/analyst roles** in London (UK) – max 20 hrs/week under a Student Visa (valid from late August 2025, no sponsorship required).
+  * ☀️ Available for remote work in the mornings and on-site work after 12 PM (daily classes end by noon).
 
-Check out the web app portfolio I made: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
+Check out my web portfolio: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
-Interested in a discussion? Let's connect on [LinkedIn](https://www.linkedin.com/in/kristynatasha/) or reach out to me via [WhatsApp (UK)](https://wa.me/447380981449)/[(Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email](mailto:kristynatasha011@gmail.com)! 👋
+Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/) or reach out to me via [WhatsApp (UK)](https://wa.me/447380981449)/[(Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email](mailto:kristynatasha011@gmail.com)! 👋
 
 ## Sneak peek of my projects
 
