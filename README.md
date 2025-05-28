@@ -1,6 +1,6 @@
 ### Hey, call me Nath 👋 
 
-I'm passionate about AI, data science, and practical tech development.
+I'm passionate about AI, data science, and tech development.
 
 * 💻 **Currently building**: chatbot systems (RAG, LangChain, LLMs), NLP tools, and fraud detection systems (using GNNs & transaction modeling). Also handling MLOps, cloud deployments, and system optimization.
   * 🛠️ **Love to tinker with**: Arduino hardware, scalable ML pipelines, web apps, and geospatial AI for sustainability & infrastructure.
