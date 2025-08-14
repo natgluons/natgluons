@@ -1,4 +1,4 @@
-### Hey, call me Nath 👋 
+## Hey, call me Nath 👋 I'm an AI engineer at a local startup.
 
 I'm passionate about AI, data science, and tech development.
 
