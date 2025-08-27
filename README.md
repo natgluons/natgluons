@@ -22,14 +22,15 @@ Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynata
       <a href="https://github.com/natgluons/HiringHelp-Chatbot"><b>HiringHelp Chatbot</b></a>
     </td>
     <td align="center" valign="bottom">
-      <img src="https://github.com/user-attachments/assets/ff5a8e0a-0fcc-450d-957c-40694ce6616e" height="150"><br>
-      <a href="https://github.com/natgluons/HiringHelp-Chatbot"><b>Docs Preview - HiringHelp</b></a>
+      <img src="https://github.com/user-attachments/assets/f2afbdcb-1999-4ac4-912b-454d461cd6ef" height="150"><br>
+      <a href="https://github.com/natgluons/capybara-game"><b>Capybara Pet Game</b></a>
     </td>
     <td align="center" valign="bottom">
-      <img src="https://github.com/user-attachments/assets/0cc9e499-1782-43ef-b77a-800f2edadd4b" height="150"><br>
-      <a href="https://github.com/natgluons/HiringHelp-Chatbot"><b>Gradio HuggingFace Spaces</b></a>
+      <img src="https://github.com/user-attachments/assets/47704439-565d-43af-ac5c-a9dd70cfcab3" height="150"><br>
+      <a href="https://github.com/natgluons/spaced-repetition-learning-app"><b>Spaced Repetition Learning App</b></a>
     </td>
   </tr>
+<!--  row 2 -->
   <tr>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/bfe0bd46-fe7d-42dd-a868-d8f5831fa142" height="150"><br>
@@ -44,6 +45,7 @@ Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynata
       <a href="https://github.com/natgluons/web-portfolio-templates"><b>Web Portfolio Template</b></a>
     </td>
   </tr>
+<!--  row 3 -->
   <tr>
     <td align="center" valign="bottom">
       <img src="https://github.com/user-attachments/assets/86758563-55d7-4491-9201-f5524e6461e8" height="150"><br>
