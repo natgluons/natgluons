@@ -1,4 +1,4 @@
-## Hey, call me Nath 👋 I'm an AI engineer at a local startup.
+## Hey, call me Nath 👋 I'm an AI engineer.
 
 I'm passionate about AI, data science, and tech development.
 
