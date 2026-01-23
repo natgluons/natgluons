@@ -1,12 +1,12 @@
 ## Hey, call me Nath! I'm an AI engineer.
 
-I'm passionate about AI, data science, and tech development.
+I'm passionate about AI, data science, and tech development!
 
 * **My specialization**: Chatbot systems (RAG, LangChain, LLMs), NLP tools, and fraud detection systems (using GNNs & transaction modeling). Also handling MLOps, cloud deployments, and system optimization.
   * **I also love to tinker with**: Arduino hardware, scalable ML pipelines, web apps, and geospatial AI for sustainability & infrastructure.
   * **My side quests**: 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
 * 📖 Currently pursuing **MSc @ Imperial College London** in *Applied Computational Science and Engineering* (Sep 2025–Sep 2026).
-* 💼 Looking for: **part-time AI research/engineering or data scientist/analyst roles** in London or remote worldwide.
+* 💼 Looking for: **AI research/engineering or data scientist/analyst roles** in London or remote worldwide.
 
 Check out my web portfolio: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
