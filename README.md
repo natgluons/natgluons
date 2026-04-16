@@ -2,9 +2,9 @@
 
 I'm passionate about ML, data science, and tech development!
 
-* **My specialization**: Machine learning systems, NLP, and fraud detection (graph neural networks & transaction modeling).
+  * **My specialization**: Machine learning systems, data science (analytics & modeling), NLP, recommendation systems, fraud detection (graph neural networks & transaction modeling), and geospatial/planetary data modeling.
   * **I also love to tinker with**: Arduino/Raspberry Pi, web apps, and geospatial AI.
-  * **My side quests**: 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
+  * **My side quests**: Mini game dev, 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
 * 📖 Currently pursuing **MSc @ Imperial College London** in *A. CompSci & Engineering* (Sep 2025–Sep 2026).
 * 💼 Looking for: **Senior Data Science, ML Engineer, or Applied ML roles** (September 2026 start), Remote (Global/APAC) opportunities based in Indonesia.
 
