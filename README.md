@@ -2,7 +2,7 @@
 
 I'm passionate about ML, data science, and tech development!
 
-* **My specialization**: Chatbot (RAG, LangChain, LLMs), NLP, and fraud detection systems (GNNs & transaction modeling). 
+* **My specialization**: Machine learning systems, NLP, and fraud detection (graph neural networks & transaction modeling).
   * **I also love to tinker with**: Arduino/Raspberry Pi, web apps, and geospatial AI.
   * **My side quests**: 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
 * 📖 Currently pursuing **MSc @ Imperial College London** in *A. CompSci & Engineering* (Sep 2025–Sep 2026).
