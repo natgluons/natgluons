@@ -1,6 +1,6 @@
-## Hey, call me Nath! I'm an AI/ML developer.
+## Hey, call me Nath! I'm an ML Engineer.
 
-I'm passionate about AI, data science, and tech development!
+I'm passionate about ML, data science, and tech development!
 
 * **My specialization**: Chatbot (RAG, LangChain, LLMs), NLP, and fraud detection systems (GNNs & transaction modeling). 
   * **I also love to tinker with**: Arduino/Raspberry Pi, web apps, and geospatial AI.
