@@ -1,4 +1,4 @@
-## Hey, call me Nath! I'm an ML Engineer.
+## Hey, call me Nath!
 
 I'm passionate about ML, data science, and tech development!
 
