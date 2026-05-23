@@ -6,7 +6,7 @@ I'm passionate about ML, data science, and tech development!
   * **I also love to tinker with**: Arduino/Raspberry Pi & web apps.
   * **My side quests**: Mini game dev, 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
 * 📖 Currently completing **MSc in A. CompSci & Eng @ Imperial College London**, expected completion: September 2026.
-* 💼 Looking for: **Machine Learning Engineer, Senior Data Scientist, or Applied ML roles** (starting September 2026), Remote (Global/APAC, based in Indonesia) or hybrid/remote in London UK.
+* 💼 Looking for: **Senior Data Scientist, AI/ML Engineer, or Applied ML roles** (starting September 2026), Remote (Global/APAC, based in Indonesia) or hybrid/remote in London UK.
 
 Check out my web portfolio: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
