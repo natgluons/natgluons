@@ -2,15 +2,15 @@
 
 I'm passionate about ML, data science, and tech development!
 
-  * **My specialization**: Machine learning systems, data science (analytics & modeling), NLP, recommendation systems, fraud detection (graph neural networks & transaction modeling), and geospatial/planetary data modeling.
-  * **I also love to tinker with**: Arduino/Raspberry Pi & web apps.
-  * **My side quests**: Mini game dev, 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
-* 📖 Currently completing **MSc in A. CompSci & Eng @ Imperial College London**, expected completion: September 2026.
-* 💼 Looking for: **Senior Data Scientist, AI/ML Engineer, or Applied ML roles** (starting September 2026), Remote (Global/APAC, based in Indonesia) or hybrid/remote in London UK.
+  * **My past work**: Machine learning systems (published a paper on GNN for fintech transactional modelling), data science & analytics, fraud detection (risk, governance, AML), NLP + recommendation systems, and geospatial/planetary data modeling (worked under the supervision of NASA Ames Research Centre & Imperial Fellow, published several papers in Earth Science).
+  * **My hyperfixations**: Arduino, Raspberry Pi, web apps, mini game dev, 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
+* 🎓 I have a **MSc in CompSci from Imperial College London**.
+* 💼 Looking for: **Senior Data Scientist, AI/ML Engineer, or Applied ML roles**, specifically for **fully remote opportunities**. I can work flexibly across different time zones, including UK, US, Europe, and APAC, depending on what's needed. I'm open to roles based anywhere, as long as the work can be done remotely from:
+  - **Indonesia** (preferred), I have unrestricted right to work.
+  - **UK**, I am eligible to apply for the 2-year Graduate Route visa.
+  - **EU**, I would require work sponsorship.
 
-Check out my web portfolio: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
-
-Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp (UK)](https://wa.me/447380981449)/[(Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email](mailto:kristynatasha011@gmail.com)! 👋
+Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp (UK)](https://wa.me/447380981449)/[(Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email me: kristynatasha011@gmail.com](mailto:kristynatasha011@gmail.com)! 👋
 
 ## Sneak peek of my projects
 
@@ -75,6 +75,4 @@ Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynata
   </tr>
 </table>
 
-## Profile Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=natgluons&theme=codeSTACKr&hide_border=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=natgluons&theme=codeSTACKr&hide_border=true)
+Check out more on my web portfolio: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
