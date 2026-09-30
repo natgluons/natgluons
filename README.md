@@ -6,8 +6,8 @@ I'm passionate about ML, data science, and tech development!
   * **My hyperfixations**: Arduino, Raspberry Pi, web apps, mini game dev, 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
 * 🎓 I have a **MSc in CompSci from Imperial College London**.
 * 💼 Looking for: **Senior Data Scientist, AI/ML Engineer, or Applied ML roles**, specifically for **fully remote opportunities**. I can work flexibly across different time zones, including UK, US, Europe, and APAC, depending on what's needed. I'm open to roles based anywhere, as long as the work can be done remotely from:
-  - **Indonesia** (preferred), I have unrestricted right to work.
   - **UK**, I am eligible to apply for the 2-year Graduate Route visa.
+  - **Indonesia/APAC**, I have unrestricted right to work.
   - **EU**, I would require work sponsorship.
 
 Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp (UK)](https://wa.me/447380981449)/[(Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email me: kristynatasha011@gmail.com](mailto:kristynatasha011@gmail.com)! 👋
