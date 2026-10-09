@@ -2,13 +2,16 @@
 
 I'm passionate about ML, data science, and tech development!
 
-  * **My past work**: Machine learning systems (published a paper on GNN for fintech transactional modelling), data science & analytics, fraud detection (risk, governance, AML), NLP + recommendation systems, and geospatial/planetary data modeling (worked under the supervision of NASA Ames Research Centre & Imperial Fellow, published several papers in Earth Science).
-  * **My hyperfixations**: Arduino, Raspberry Pi, web apps, mini game dev, 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
-* 🎓 I have a **MSc in CompSci from Imperial College London**, and a BSc from ITB.
-* 💼 Looking for: **Senior Data Scientist, AI/ML Engineer, or Applied ML roles**, specifically for **fully remote opportunities**. I can work flexibly across different time zones, including UK, US, Europe, and APAC, depending on what's needed. I'm open to roles based anywhere, as long as the work can be done remotely from:
-  - **UK**, I am eligible to apply for the 2-year Graduate Route visa.
-  - **Indonesia/APAC**, I have unrestricted right to work.
-  - **EU**, I would require work sponsorship.
+1. **My past work**: Machine learning systems (published a paper on GNN for fintech transactional modelling), data science & analytics, fraud detection (risk, governance, AML), NLP + recommendation systems, and geospatial/planetary data modeling (worked under the supervision of NASA Ames Research Centre & Imperial Fellow, published several papers in Earth Science).
+2. **My hyperfixations**: Arduino, Raspberry Pi, web apps, mini game dev, 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
+3. I have a **MSc in CompSci from Imperial College London**, and a BSc from ITB.
+4. Looking for: **Senior Data Scientist, AI/ML Engineer, or Applied ML roles**. I'm primarily looking for fully remote opportunities (UK/EU/APAC), but I'm also open to hybrid or on-site roles (London/Jakarta). 
+
+I can work flexibly across different time zones, including UK, US, Europe, and APAC, depending on what's needed. I'm open to roles based anywhere, as long as the work can be done remotely from:
+- UK, I am eligible to apply for the 2-year Graduate Route visa.
+- Indonesia/APAC, I have unrestricted right to work.
+- EU, I would require work sponsorship.
+
 
 Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp (UK)](https://wa.me/447380981449)/[(Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email me: kristynatasha011@gmail.com](mailto:kristynatasha011@gmail.com)! 👋
 
