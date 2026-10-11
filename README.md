@@ -13,7 +13,7 @@ I can work flexibly across different time zones, including UK, US, Europe, and A
 - EU, I would require work sponsorship.
 
 
-Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp (UK)](https://wa.me/447380981449)/[(Indonesia)](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons), or [email me: kristynatasha011@gmail.com](mailto:kristynatasha011@gmail.com)! 👋
+Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp](Indonesia)](https://wa.me/6287886583513), or [email me: kristynatasha011@gmail.com](mailto:kristynatasha011@gmail.com)! 👋
 
 ## Sneak peek of my projects
 
