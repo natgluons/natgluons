@@ -13,9 +13,11 @@ I can work flexibly across different time zones, including UK, US, Europe, and A
 - EU, I would require work sponsorship.
 
 
-Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp](https://wa.me/6287886583513), or [email me: kristynatasha011@gmail.com](mailto:kristynatasha011@gmail.com)! 👋
+Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons/), or [email me: kristynatasha011@gmail.com](mailto:kristynatasha011@gmail.com)! 👋
 
 ## Sneak peek of my projects
+
+Check out more on my web portfolio: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
 
 <table>
   <tr>
@@ -78,4 +80,3 @@ Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynata
   </tr>
 </table>
 
-Check out more on my web portfolio: [natgluons.github.io/portfolio](https://natgluons.github.io/portfolio/)
