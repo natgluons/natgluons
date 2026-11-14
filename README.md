@@ -1,6 +1,6 @@
 ## Hey, call me Nath!
 
-I'm passionate about ML, LLM development, data science, and tech development!
+I'm passionate about ML, LLM, data science, and tech development!
 
 1. **My past work:** Machine learning systems (published a paper on GNN for fintech transactional modelling), data science & analytics, fraud detection (risk, governance, AML), NLP + recommendation systems, and geospatial/planetary data modeling (worked under the supervision of NASA Ames Research Centre & Imperial Fellow, published several papers in Earth Science).
 2. **My hyperfixations:** Arduino, Raspberry Pi, web apps, mini game dev, 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
