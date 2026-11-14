@@ -9,7 +9,7 @@ I'm passionate about ML, LLM, data science, and tech development!
 5. **Work location:** **Fully remote from Indonesia**. Open to companies based anywhere in the world, including the UK, US, Europe, and APAC, as long as the work can be done remotely from Indonesia. I can adapt to different time zones and work flexibly across international schedules.
 
 
-Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons/), or [email me: kristynatasha011@gmail.com](mailto:kristynatasha011@gmail.com)! 👋
+Want to connect? Reach out via [LinkedIn](https://www.linkedin.com/in/kristynatasha/), [WhatsApp](https://wa.me/6287886583513), [Instagram](https://www.instagram.com/natgluons/), or [email me: kristynatasha011@gmail.com](mailto:kristynatasha011@gmail.com)!
 
 ## Sneak peek of my projects
 
