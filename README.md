@@ -5,7 +5,7 @@ I'm passionate about ML, data science, and tech development!
 1. **My past work:** Machine learning systems (published a paper on GNN for fintech transactional modelling), data science & analytics, fraud detection (risk, governance, AML), NLP + recommendation systems, and geospatial/planetary data modeling (worked under the supervision of NASA Ames Research Centre & Imperial Fellow, published several papers in Earth Science).
 2. **My hyperfixations:** Arduino, Raspberry Pi, web apps, mini game dev, 3D modeling in Fusion360, prototyping in Godot, and fusing AI + simulation + gaming for fun.
 3. **My education:** MSc in CompSci from Imperial College London (fully-funded LPDP scholarship) and Bachelor's from Institut Teknologi Bandung.
-4. **Looking for:** Opportunities as a **Senior Data Scientist, AI/ML Engineer, or Applied ML Engineer**. Open to full-time, part-time, contract, and freelance roles.
+4. **Looking for:** Opportunities as a **Senior AI/ML Engineer or Data Scientist**. Open to full-time, part-time, contract, and freelance roles.
 5. **Work location:** **Fully remote from Indonesia**. Open to companies based anywhere in the world, including the UK, US, Europe, and APAC, as long as the work can be done remotely from Indonesia. I can adapt to different time zones and work flexibly across international schedules.
 
 
